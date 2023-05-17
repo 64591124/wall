@@ -1,3 +1,4 @@
+// 用于处理 multipart/form-data 类型的表单数据，主要用于上传文件。写在 busboy 之上非常高效。
 const multer = require('multer')
 const express = require('express')
 const router = express.Router()
@@ -19,7 +20,7 @@ const storage = multer.diskStorage({
 })
 const upload = multer({storage : storage })
 router.post('/profile',upload.single('file'),(req,res)=>{
-    let imgurl = `/photo/${req.file.filename}`
+    let imgurl = `/photo/${req.file.filename}` 
     res.send(imgurl)
 })
 

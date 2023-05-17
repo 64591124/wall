@@ -153,3 +153,5 @@ exports.likeCount = (wid, uid) => {
     let _sql = ` select count(*) as count from feedbacks where wallId ='${wid}' and userId='${uid}' and type=0;`
     return query(_sql)
 }
+
+

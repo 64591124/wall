@@ -12,9 +12,9 @@ const routes = [
         children : [{
             path : 'wall',
             components : {
-               default: () => import('@/views/WallMessage.vue'),
-               pc : () => import('@/views/WallMessage.vue'),
-               mobile : () => import('~/components/mobile/WallMessage.vue')
+            default: () => import('@/views/WallMessage.vue'),
+            pc : () => import('@/views/WallMessage.vue'),
+            mobile : () => import('~/components/mobile/WallMessage.vue')
             }}
     ]
     }

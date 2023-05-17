@@ -18,7 +18,7 @@ const getUser = () => {
     signIpApi().then(res=>{
         let user = {
             id : res.ip
-        }
+        } 
         store.commit('getUser',user)
     })
 }

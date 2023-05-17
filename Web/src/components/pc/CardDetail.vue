@@ -1,5 +1,4 @@
 <template>
-
     <div class="card-detail">
         <div class="top-bt">
             <p class="revoke" @click="delete_card">联系墙主撕掉该便签</p>
@@ -28,8 +27,6 @@
             <p class="more" @click="getComment" v-show="page > 0">加载更多</p>
         </div>
     </div>
-
-
 </template>
 <script setup>
 import NodeCard from './NodeCard.vue';

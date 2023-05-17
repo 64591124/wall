@@ -17,10 +17,8 @@
                     <span class="iconfont icon-liuyan"></span>
                     <span class="value">{{ card.comcount[0].count }}</span>
                 </div>
-                
             </div>
             <div class="name">{{ card.name}}</div>
-            
         </div>
     </div>
 </template>

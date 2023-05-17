@@ -50,7 +50,7 @@ export const portrait = [
 
 export const none = [
     {
-        url : './assets/images/card.svg',
+        url : '~/assets/images/card1.svg',
         msg : '还没有留言，快贴上第一张吧'
     },
     {

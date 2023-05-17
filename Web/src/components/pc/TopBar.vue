@@ -2,7 +2,7 @@
     <div class="top-bar">
         <div class="logo">
             <img src="@/images/favicon.svg" alt="">
-            <p class="logo-name">一刻时光</p>
+            <p class="logo-name">青春物语</p>
         </div>
         <div class="menu">
             <Ibutton @click="changeWall(0)"  :active="id == 0 ? 'cprimary' : 'pncolor'" class="menu-message">留言墙</Ibutton>
@@ -10,7 +10,7 @@
         </div>
         <div class="user">
             <div class="user-head">
-                <img :src=avatarUrl alt="苦苦的码人">
+                <img :src=avatarUrl alt="青春物语">
             </div>
         </div>
     </div>

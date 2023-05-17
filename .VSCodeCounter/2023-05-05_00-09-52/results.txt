@@ -1,0 +1,116 @@
+Date : 2023-05-05 00:09:52
+Directory : d:\留言网站\MessageWall
+Total : 57 files,  10209 codes, 262 comments, 444 blanks, all 10915 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          6 |      5,386 |          0 |          5 |      5,391 |
+| Vue        |         22 |      3,070 |        122 |        227 |      3,419 |
+| JavaScript |         18 |        558 |         89 |         30 |        677 |
+| CSS        |          3 |        521 |         19 |        103 |        643 |
+| HTML       |          2 |        479 |          2 |         57 |        538 |
+| XML        |          3 |         88 |          0 |          0 |         88 |
+| Less       |          1 |         52 |          6 |          9 |         67 |
+| SQL        |          1 |         36 |         24 |          6 |         66 |
+| Markdown   |          1 |         19 |          0 |          7 |         26 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                               |         57 |     10,209 |        262 |        444 |     10,915 |
+| . (Files)                                                       |          1 |         19 |          0 |          7 |         26 |
+| API                                                             |          9 |      2,483 |         84 |         24 |      2,591 |
+| API (Files)                                                     |          3 |      2,163 |          9 |          7 |      2,179 |
+| API\config                                                      |          2 |         46 |         25 |          6 |         77 |
+| API\controller                                                  |          1 |         85 |         16 |          2 |        103 |
+| API\lib                                                         |          1 |        130 |         21 |          7 |        158 |
+| API\routes                                                      |          2 |         59 |         13 |          2 |         74 |
+| Web                                                             |         47 |      7,707 |        178 |        413 |      8,298 |
+| Web (Files)                                                     |          4 |      3,220 |          2 |          7 |      3,229 |
+| Web\src                                                         |         43 |      4,487 |        176 |        406 |      5,069 |
+| Web\src (Files)                                                 |          2 |         35 |          4 |          3 |         42 |
+| Web\src\assets                                                  |         20 |      1,828 |         87 |        183 |      2,098 |
+| Web\src\assets\api                                              |          1 |         22 |          7 |          0 |         29 |
+| Web\src\assets\fonts                                            |          5 |      1,019 |         21 |        158 |      1,198 |
+| Web\src\assets\fonts\icon                                       |          5 |      1,019 |         21 |        158 |      1,198 |
+| Web\src\assets\images                                           |          4 |         89 |          0 |          0 |         89 |
+| Web\src\assets\router                                           |          1 |         26 |          0 |          0 |         26 |
+| Web\src\assets\store                                            |          1 |         22 |          0 |          3 |         25 |
+| Web\src\assets\styles                                           |          2 |         86 |          6 |         10 |        102 |
+| Web\src\assets\utils                                            |          4 |        124 |         19 |          7 |        150 |
+| Web\src\assets\views                                            |          2 |        440 |         34 |          5 |        479 |
+| Web\src\components                                              |         21 |      2,624 |         85 |        220 |      2,929 |
+| Web\src\components\KMR                                          |          3 |        123 |          1 |          6 |        130 |
+| Web\src\components\KMR (Files)                                  |          1 |          6 |          0 |          0 |          6 |
+| Web\src\components\KMR\message                                  |          2 |        117 |          1 |          6 |        124 |
+| Web\src\components\mobile                                       |          9 |      1,363 |         53 |        115 |      1,531 |
+| Web\src\components\pc                                           |          9 |      1,138 |         31 |         99 |      1,268 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                        | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\留言网站\MessageWall\API\app.js                                  | JavaScript |         29 |          9 |          5 |         43 |
+| d:\留言网站\MessageWall\API\config\default.js                       | JavaScript |         10 |          1 |          0 |         11 |
+| d:\留言网站\MessageWall\API\config\wall.sql                         | SQL        |         36 |         24 |          6 |         66 |
+| d:\留言网站\MessageWall\API\controller\dbServe.js                   | JavaScript |         85 |         16 |          2 |        103 |
+| d:\留言网站\MessageWall\API\lib\db.js                               | JavaScript |        130 |         21 |          7 |        158 |
+| d:\留言网站\MessageWall\API\package-lock.json                       | JSON       |      2,124 |          0 |          1 |      2,125 |
+| d:\留言网站\MessageWall\API\package.json                            | JSON       |         10 |          0 |          1 |         11 |
+| d:\留言网站\MessageWall\API\routes\files.js                         | JavaScript |         21 |          4 |          1 |         26 |
+| d:\留言网站\MessageWall\API\routes\index.js                         | JavaScript |         38 |          9 |          1 |         48 |
+| d:\留言网站\MessageWall\README.md                                   | Markdown   |         19 |          0 |          7 |         26 |
+| d:\留言网站\MessageWall\Web\index.html                              | HTML       |         48 |          0 |          2 |         50 |
+| d:\留言网站\MessageWall\Web\package-lock.json                       | JSON       |      3,124 |          0 |          1 |      3,125 |
+| d:\留言网站\MessageWall\Web\package.json                            | JSON       |         27 |          0 |          1 |         28 |
+| d:\留言网站\MessageWall\Web\src\App.vue                             | Vue        |         25 |          3 |          2 |         30 |
+| d:\留言网站\MessageWall\Web\src\assets\api\index.js                 | JavaScript |         22 |          7 |          0 |         29 |
+| d:\留言网站\MessageWall\Web\src\assets\fonts\icon\demo.css          | CSS        |        435 |         19 |         86 |        540 |
+| d:\留言网站\MessageWall\Web\src\assets\fonts\icon\demo_index.html   | HTML       |        431 |          2 |         55 |        488 |
+| d:\留言网站\MessageWall\Web\src\assets\fonts\icon\iconfont.css      | CSS        |         52 |          0 |         16 |         68 |
+| d:\留言网站\MessageWall\Web\src\assets\fonts\icon\iconfont.js       | JavaScript |          1 |          0 |          0 |          1 |
+| d:\留言网站\MessageWall\Web\src\assets\fonts\icon\iconfont.json     | JSON       |        100 |          0 |          1 |        101 |
+| d:\留言网站\MessageWall\Web\src\assets\images\card.svg              | XML        |         19 |          0 |          0 |         19 |
+| d:\留言网站\MessageWall\Web\src\assets\images\favicon.svg           | XML        |         13 |          0 |          0 |         13 |
+| d:\留言网站\MessageWall\Web\src\assets\images\loading.json          | JSON       |          1 |          0 |          0 |          1 |
+| d:\留言网站\MessageWall\Web\src\assets\images\photo.svg             | XML        |         56 |          0 |          0 |         56 |
+| d:\留言网站\MessageWall\Web\src\assets\router\index.js              | JavaScript |         26 |          0 |          0 |         26 |
+| d:\留言网站\MessageWall\Web\src\assets\store\index.js               | JavaScript |         22 |          0 |          3 |         25 |
+| d:\留言网站\MessageWall\Web\src\assets\styles\common.css            | CSS        |         34 |          0 |          1 |         35 |
+| d:\留言网站\MessageWall\Web\src\assets\styles\common.less           | Less       |         52 |          6 |          9 |         67 |
+| d:\留言网站\MessageWall\Web\src\assets\utils\axios.js               | JavaScript |         28 |          2 |          2 |         32 |
+| d:\留言网站\MessageWall\Web\src\assets\utils\data.js                | JavaScript |         52 |         15 |          4 |         71 |
+| d:\留言网站\MessageWall\Web\src\assets\utils\env.js                 | JavaScript |         19 |          0 |          0 |         19 |
+| d:\留言网站\MessageWall\Web\src\assets\utils\methods.js             | JavaScript |         25 |          2 |          1 |         28 |
+| d:\留言网站\MessageWall\Web\src\assets\views\WallMessage.vue        | Vue        |        402 |         34 |          4 |        440 |
+| d:\留言网站\MessageWall\Web\src\assets\views\index.vue              | Vue        |         38 |          0 |          1 |         39 |
+| d:\留言网站\MessageWall\Web\src\components\KMR\index.js             | JavaScript |          6 |          0 |          0 |          6 |
+| d:\留言网站\MessageWall\Web\src\components\KMR\message\IMessage.vue | Vue        |        104 |          1 |          6 |        111 |
+| d:\留言网站\MessageWall\Web\src\components\KMR\message\message.js   | JavaScript |         13 |          0 |          0 |         13 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\CardDetail.vue    | Vue        |        219 |          7 |         21 |        247 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\IModal.vue        | Vue        |        102 |          0 |          3 |        105 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\Ibutton.vue       | Vue        |         69 |          2 |          1 |         72 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\NewCard.vue       | Vue        |        302 |         14 |         31 |        347 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\NodeCard.vue      | Vue        |        124 |          2 |          9 |        135 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\PhotoCard.vue     | Vue        |         97 |          2 |         19 |        118 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\TopBar.vue        | Vue        |         73 |          1 |         10 |         84 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\WallMessage.vue   | Vue        |        341 |         25 |         21 |        387 |
+| d:\留言网站\MessageWall\Web\src\components\mobile\index.vue         | Vue        |         36 |          0 |          0 |         36 |
+| d:\留言网站\MessageWall\Web\src\components\pc\CardDetail.vue        | Vue        |        203 |          8 |         14 |        225 |
+| d:\留言网站\MessageWall\Web\src\components\pc\FootBar.vue           | Vue        |         13 |          0 |          1 |         14 |
+| d:\留言网站\MessageWall\Web\src\components\pc\IModal.vue            | Vue        |        103 |          0 |          3 |        106 |
+| d:\留言网站\MessageWall\Web\src\components\pc\Ibutton.vue           | Vue        |         70 |          2 |          1 |         73 |
+| d:\留言网站\MessageWall\Web\src\components\pc\NewCard.vue           | Vue        |        306 |         14 |         30 |        350 |
+| d:\留言网站\MessageWall\Web\src\components\pc\NodeCard.vue          | Vue        |        129 |          2 |          8 |        139 |
+| d:\留言网站\MessageWall\Web\src\components\pc\PhotoCard.vue         | Vue        |         99 |          2 |         19 |        120 |
+| d:\留言网站\MessageWall\Web\src\components\pc\TopBar.vue            | Vue        |         82 |          1 |          5 |         88 |
+| d:\留言网站\MessageWall\Web\src\components\pc\Viewer.vue            | Vue        |        133 |          2 |         18 |        153 |
+| d:\留言网站\MessageWall\Web\src\main.js                             | JavaScript |         10 |          1 |          1 |         12 |
+| d:\留言网站\MessageWall\Web\vite.config.js                          | JavaScript |         21 |          2 |          3 |         26 |
+| Total                                                           |            |     10,209 |        262 |        444 |     10,915 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
